@@ -1,13 +1,15 @@
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keisukefukuchi&theme=default" height="230px" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keisukefukuchi&theme=dark" height="230px" />
 </a>
 
 <h1>Hi 👋, I'm keisukefukuchi</h1>
 <p　align="center">I am to be the least engineer-like engineer in the world.</p>
 <p>I don't even have a favorite technology.</p>
 
-<p href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keisukefukuchi" />
+<h2>GitHub Stats Card</h2>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keisukefukuchi&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=keisukefukuchi&theme=onedark&show_icons=ture" />
 </p>
 
 <a href="https://github.com/keisukefukuchi/keisukefukuchi/">
@@ -41,14 +43,13 @@
   <h2>🏆 Github Profile Trophy</h2>
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=keisukefukuchi" height="230px"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=keisukefukuchi&theme=onedark&column=-1" height="230px"/> 
 </a>
 
-  <h1></h1>
+<h1></h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keisukefukuchi&theme=default" height="230px"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keisukefukuchi&theme=dark" height="230px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keisukefukuchi&theme=default&utcOffset=9" height="230px"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keisukefukuchi&theme=dark&utcOffset=9" height="230px"/>
 </a>
-
