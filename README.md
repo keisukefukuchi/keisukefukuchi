@@ -1,9 +1,10 @@
+<h1>Hi 👋, I'm keisukefukuchi</h1>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keisukefukuchi&theme=dark" height="230px" />
 </a>
 
-<h1>Hi 👋, I'm keisukefukuchi</h1>
-<p　align="center">I am to be the least engineer-like engineer in the world.</p>
+
+<p>I am to be the least engineer-like engineer in the world.</p>
 <p>I don't even have a favorite technology.</p>
 
 <h2>GitHub Stats Card</h2>
@@ -12,6 +13,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=keisukefukuchi&theme=onedark&show_icons=ture" />
 </p>
 
+<h2>Badge</h2>
 <a href="https://github.com/keisukefukuchi/keisukefukuchi/">
   <img src="https://komarev.com/ghpvc/?username=keisukefukuchi" alt="keisukefukuchi" />
 </a>
@@ -41,12 +43,13 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <h2>🏆 Github Profile Trophy</h2>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=keisukefukuchi&theme=onedark&column=-1" height="230px"/> 
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=keisukefukuchi&theme=onedark&column=-1" height="190px"/> 
 </a>
 
-<h1></h1>
+<h2>GitHub Profile Summary Cards</h1>
+                                                                                                                         
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keisukefukuchi&theme=dark" height="230px"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keisukefukuchi&theme=dark&exclude={exclude}" height="230px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keisukefukuchi&theme=dark&utcOffset=9" height="230px"/>
