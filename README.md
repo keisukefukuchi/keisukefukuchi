@@ -1,6 +1,14 @@
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keisukefukuchi&theme=default" height="230px" />
+</a>
+
 <h1>Hi 👋, I'm keisukefukuchi</h1>
 <p　align="center">I am to be the least engineer-like engineer in the world.</p>
 <p>I don't even have a favorite technology.</p>
+
+<p href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keisukefukuchi" />
+</p>
 
 <a href="https://github.com/keisukefukuchi/keisukefukuchi/">
   <img src="https://komarev.com/ghpvc/?username=keisukefukuchi" alt="keisukefukuchi" />
@@ -33,19 +41,14 @@
   <h2>🏆 Github Profile Trophy</h2>
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="800px" src="https://github-profile-trophy.vercel.app/?username=keisukefukuchi"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=keisukefukuchi" height="230px"/>
 </a>
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keisukefukuchi&theme=default" height="220px" />
+  <h1></h1>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keisukefukuchi&theme=default" height="230px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keisukefukuchi&theme=default" height="220px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keisukefukuchi&theme=default&utcOffset=9" height="220px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keisukefukuchi" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keisukefukuchi&theme=default&utcOffset=9" height="230px"/>
 </a>
 
