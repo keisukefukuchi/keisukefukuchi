@@ -8,6 +8,6 @@
 </p>
 
  <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={keisukefukuchi}&theme={2077})
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keisukefukuchi&theme=2077)
 
  </p>
