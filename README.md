@@ -29,9 +29,19 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a
 </p>
 
- <div align="left">
-  <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keisukefukuchi&theme=2077" /></p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keisukefukuchi&theme=2077" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keisukefukuchi&theme=2077&utcOffset=9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keisukefukuchi" />
- </div>
+  
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keisukefukuchi&theme=default" height="220px" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keisukefukuchi&theme=default" height="158px" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keisukefukuchi&theme=default&utcOffset=9" height="158px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keisukefukuchi" />
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=keisukefukuchi" height="151px" />
+</a>
