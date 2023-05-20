@@ -40,10 +40,10 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keisukefukuchi&theme=default" height="220px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keisukefukuchi&theme=default"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keisukefukuchi&theme=default" height="220px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keisukefukuchi&theme=default&utcOffset=9"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keisukefukuchi&theme=default&utcOffset=9" height="220px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keisukefukuchi" />
